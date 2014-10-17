@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ggt:home|Door43 (ggt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ggt|d43-ggt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ggt/archive/master.zip|d43-ggt.zip]]
+
+**Recent Changes**
+{{changes>ns = ggt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ggt|Ethnologue data]]
+
